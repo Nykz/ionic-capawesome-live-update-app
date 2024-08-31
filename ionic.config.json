@@ -1,0 +1,7 @@
+{
+  "name": "cap-live-update",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
